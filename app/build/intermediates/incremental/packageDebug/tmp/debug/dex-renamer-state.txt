@@ -1,0 +1,7 @@
+#Wed Nov 04 22:07:04 WAT 2020
+base.0=/home/aanudev/PROJECTS/Android Course/Course 1/m8-calculator/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/aanudev/PROJECTS/Android Course/Course 1/m8-calculator/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
